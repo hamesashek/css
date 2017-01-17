@@ -1,0 +1,65 @@
+.popupClose {
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    }
+    .ipsBox, .ipsPad {
+    padding: 9px;
+    }
+    .ipsBox {
+    background: #fff;
+    }
+    .block_list > li {
+    padding: 5px 10px;
+    list-style-type: none;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #eaeaea;
+    }
+div.aba {
+    background: none repeat scroll 0 0 #fff;
+    border: 0 solid #dcdcdc !important;
+    margin-left: 0;
+    min-height: 400px;
+    text-align: justify;
+}
+#navebar {
+    border-bottom: 1px solid #dcdcdc;
+    border-left: 0 solid #dcdcdc;
+    border-top: 0 solid #dcdcdc;
+    display: flex;
+    font: bold 12px tahoma,helvetica,arial,sans-serif;
+    margin: 0;
+}
+    #navebar li {
+      display: block;
+      background: #f5f5f5;
+      color: #808080;
+      border-bottom: 0px solid #dcdcdc;
+      list-style:none;
+      }
+    #navebar li a:hover {
+      color:#808080;
+      }
+#navebar li a.active {
+    background: none repeat scroll 0 0 #fff;
+    border-right: 0 solid #fcfcfc;
+    color: #353535;
+    font-weight: bold;
+    position: relative;
+    width: 135px;
+    z-index: 8000;
+}
+#navebar li a {
+    background: none repeat scroll 0 0 #fff;
+    border-right: 0 solid #dcdcdc;
+    color: #8d8d8d;
+    cursor: pointer;
+    display: block;
+    font-weight: normal;
+    outline: 0 none;
+    padding: 10px 8px;
+    text-decoration: none;
+    transition: background-color 0.3s ease-in-out 0s;
+    width: 105px;
+}
