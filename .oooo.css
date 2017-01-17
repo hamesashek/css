@@ -1,0 +1,30 @@
+.oooo {
+  background-image: -webkit-linear-gradient(-45deg, #4ebdc0, #53c9b3);
+  background-image: -moz-linear-gradient(-45deg, #4ebdc0, #53c9b3);
+  background-image: -o-linear-gradient(-45deg, #4ebdc0, #53c9b3);
+  background-image: linear-gradient(135deg, #4ebdc0, #53c9b3);
+text-align: center;}
+
+
+.chart {
+  display: inline-block;
+  width: 95px;
+  height: 95px;
+  margin: 0 10px;
+  vertical-align: top;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-top: 22px;
+}
+.chart span {
+  display: block;
+  font-size: 2em;
+  font-weight: normal;
+}
+.chart canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
