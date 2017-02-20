@@ -4,7 +4,7 @@
 
 
 
-body .ui {
+ .ui {
   width: 600px;
   position: absolute;
   left: 0;
@@ -14,29 +14,29 @@ body .ui {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
-body .ui_fruit {
+ .ui_fruit {
   position: absolute;
   z-index: 34;
   right: -47px;
   pointer-events: none;
   top: 180px;
 }
-body .ui_fruit img {
+ .ui_fruit img {
   width: 344px;
 }
-body .ui_basket {
+ .ui_basket {
   color: #de467c;
   position: relative;
   top: -6px;
   text-align: right;
 }
-body .ui_inner {
+.ui_inner {
   height: 340px;
   background-image: -webkit-linear-gradient(45deg, #ffffff 0%, #f3f3f3 100%);
   padding: 40px;
   box-shadow: 0px 2px 40px 0px transparent, 0px 6px 26px 0px #bf9b59, 0px 3px 0px -2px white inset, 0px 22px 60px 70px #f1f1f1 inset, 0px 8px 18px -7px transparent, 30px 13px 30px 28px #b18f8f inset;
 }
-body .ui_inner .sb {
+ .ui_inner .sb {
   overflow: hidden;
   width: 450px;
   top: -1px;
@@ -46,16 +46,16 @@ body .ui_inner .sb {
   -webkit-animation: spin 14s infinite linear;
           animation: spin 14s infinite linear;
 }
-body .ui_inner .sb img {
+ .ui_inner .sb img {
   width: 450px;
   opacity: 0;
   -webkit-transition: all 0.15s 0s;
   transition: all 0.15s 0s;
 }
-body .ui_inner__selection label .m,
-body .ui_inner__selection label .s,
-body .ui_inner__selection label .l,
-body .ui_inner__selection label .h {
+ .ui_inner__selection label .m,
+ .ui_inner__selection label .s,
+ .ui_inner__selection label .l,
+ .ui_inner__selection label .h {
   background: #de467c;
   position: absolute;
   right: -130px;
@@ -71,27 +71,27 @@ body .ui_inner__selection label .h {
   -webkit-transition: all .2s;
   transition: all .2s;
 }
-body .ui_inner__selection label .m:hover,
-body .ui_inner__selection label .s:hover,
-body .ui_inner__selection label .l:hover,
-body .ui_inner__selection label .h:hover {
+ .ui_inner__selection label .m:hover,
+ .ui_inner__selection label .s:hover,
+ .ui_inner__selection label .l:hover,
+ .ui_inner__selection label .h:hover {
   background: #94619c;
   padding: 20px 20px 20px 30px;
 }
-body .ui_inner__selection label .m,
-body .ui_inner__selection label .s,
-body .ui_inner__selection label .l,
-body .ui_inner__selection label .h {
+ .ui_inner__selection label .m,
+ .ui_inner__selection label .s,
+ .ui_inner__selection label .l,
+ .ui_inner__selection label .h {
   border-radius: 255px 15px 205px 35px/35px 225px 35px 255px;
 }
-body .ui_inner__selection label .l {
+.ui_inner__selection label .l {
   top: 0px;
   border-radius: 265px 35px 185px 14px/8px 235px 12px 255px;
   width: 126px;
   right: -119px;
   box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.06) inset;
 }
-body .ui_inner__selection label .l:before {
+ .ui_inner__selection label .l:before {
   content: '';
   display: block;
   background: #f1f1f1;
@@ -101,13 +101,13 @@ body .ui_inner__selection label .l:before {
   LEFT: -3PX;
   top: 0px;
 }
-body .ui_inner__selection label .s {
+ .ui_inner__selection label .s {
   top: 63px;
   border-radius: 195px 35px 155px 3px/19px 265px 25px 235px;
   width: 127px;
   right: -123px;
 }
-body .ui_inner__selection label .s:before {
+ .ui_inner__selection label .s:before {
   content: '';
   display: block;
   background: #f1f1f1;
@@ -117,13 +117,13 @@ body .ui_inner__selection label .s:before {
   LEFT: -6PX;
   top: 0px;
 }
-body .ui_inner__selection label .h {
+.ui_inner__selection label .h {
   top: 187px;
   border-radius: 195px 9px 177px 3px/49px 275px 65px 235px;
   width: 127px;
   right: -123px;
 }
-body .ui_inner__selection label .h:before {
+ .ui_inner__selection label .h:before {
   content: '';
   display: block;
   background: #f1f1f1;
@@ -133,13 +133,13 @@ body .ui_inner__selection label .h:before {
   LEFT: -6PX;
   top: 0px;
 }
-body .ui_inner__selection label .m {
+ .ui_inner__selection label .m {
   top: 127px;
   border-radius: 265px 15px 205px 1px/0px 225px 35px 245px;
   right: -125px;
   box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.06) inset;
 }
-body .ui_inner__selection label .m:before {
+ .ui_inner__selection label .m:before {
   content: '';
   display: block;
   background: #f1f1f1;
@@ -149,80 +149,80 @@ body .ui_inner__selection label .m:before {
   LEFT: -5PX;
   top: 0px;
 }
-body .ui_inner__selection input[type="radio"] {
+ .ui_inner__selection input[type="radio"] {
   display: none;
 }
-body .ui_inner__selection input[type="radio"]:checked + label .selected {
+ .ui_inner__selection input[type="radio"]:checked + label .selected {
   background: #d02562 !important;
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .sb img {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .sb img {
   opacity: 0.3;
   -webkit-transition: all 1s 0.2s;
   transition: all 1s 0.2s;
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left {
   opacity: 1;
   left: -100px;
   -webkit-transition: all 0.5s 0.35s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.35s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right h2 {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right h2 {
   opacity: 1;
   left: 0px;
   -webkit-transition: all 0.5s 0.4s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.4s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right h3 {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right h3 {
   opacity: 1;
   left: 0px;
   -webkit-transition: all 0.5s 0.45s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.45s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider {
   pointer-events: all;
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right p {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right p {
   opacity: 1;
   left: 0px;
   -webkit-transition: all 0.5s 0.5s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.5s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right input {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right input {
   position: relative;
   opacity: 1;
   left: 0px;
   -webkit-transition: all 0.5s 0.55s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.55s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right .add {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__right .add {
   position: relative;
   opacity: 1;
   left: 0px;
   -webkit-transition: all 0.5s 0.6s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.6s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left .firework .firework_part:nth-of-type(1) {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left .firework .firework_part:nth-of-type(1) {
   left: 187px;
   top: -89px;
   opacity: 0;
   -webkit-transform: rotate(625deg) !important;
           transform: rotate(625deg) !important;
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left .firework .firework_part:nth-of-type(2) {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left .firework .firework_part:nth-of-type(2) {
   left: 201px;
   top: -97px;
   opacity: 0;
   -webkit-transform: rotate(836deg) !important;
           transform: rotate(836deg) !important;
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left .firework .firework_part:nth-of-type(3) {
+.ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left .firework .firework_part:nth-of-type(3) {
   left: -27px;
   top: 133px;
   opacity: 0;
   -webkit-transform: rotate(894deg) !important;
           transform: rotate(894deg) !important;
 }
-body .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left .firework .firework_part:nth-of-type(4) {
+ .ui_inner__selection input[type="radio"]:checked + label .ui_inner__slider .slide_inner__left .firework .firework_part:nth-of-type(4) {
   left: 152px;
   top: -90px;
   opacity: 0;
