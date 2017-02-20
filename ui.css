@@ -1,17 +1,9 @@
 @import "https://fonts.googleapis.com/css?family=Amatic+SC|Bad+Script|Satisfy|Shadows+Into+Light|Yellowtail";
-* {
-  box-sizing: border-box;
-}
 
-i {
-  font-family: 'font-awesome';
-}
 
-body {
-  overflow: hidden;
-  background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/food.png);
-  font-family: 'Amatic SC', cursive;
-}
+
+
+
 body .ui {
   width: 600px;
   position: absolute;
@@ -1286,441 +1278,441 @@ body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(8
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(9) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(9) {
   background: #de5946;
   height: 12px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(10) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(10) {
   background: #de5446;
   height: 5px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(11) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(11) {
   background: #dea046;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(12) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(12) {
   background: #de4663;
   height: 10px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(13) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(13) {
   background: #de465b;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(14) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(14) {
   background: #de465e;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(15) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(15) {
   background: #de4672;
   height: 10px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(16) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(16) {
   background: #de5746;
   height: 5px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(17) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(17) {
   background: #de9646;
   height: 5px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(18) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(18) {
   background: #de4665;
   height: 11px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(19) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(19) {
   background: #de9946;
   height: 13px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(20) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(20) {
   background: #decb46;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(21) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(21) {
   background: #de4672;
   height: 8px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(22) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(22) {
   background: #de4674;
   height: 13px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(23) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(23) {
   background: #de7d46;
   height: 14px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(24) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(24) {
   background: #dedb46;
   height: 10px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(25) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(25) {
   background: #de466f;
   height: 8px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(26) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(26) {
   background: #de6e46;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(27) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(27) {
   background: #dece46;
   height: 10px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(28) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(28) {
   background: #de4647;
   height: 14px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(29) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(29) {
   background: #de4d46;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(30) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(30) {
   background: #debc46;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(31) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(31) {
   background: #de466d;
   height: 10px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(32) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(32) {
   background: #de8c46;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(33) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(33) {
   background: #de4668;
   height: 14px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(34) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(34) {
   background: #de7846;
   height: 7px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(35) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(35) {
   background: #de7846;
   height: 14px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(36) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(36) {
   background: #ded346;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(37) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(37) {
   background: #de7f46;
   height: 7px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(38) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(38) {
   background: #de5246;
   height: 5px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(39) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(39) {
   background: #de9646;
   height: 14px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(40) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(40) {
   background: #de4674;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(41) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(41) {
   background: #dea046;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(42) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(42) {
   background: #de4651;
   height: 11px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(43) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(43) {
   background: #dec946;
   height: 12px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(44) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(44) {
   background: #dec946;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(45) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(45) {
   background: #dec446;
   height: 12px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(46) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(46) {
   background: #de4d46;
   height: 10px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(47) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(47) {
   background: #de4660;
   height: 13px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(48) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(48) {
   background: #de4668;
   height: 13px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(49) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(49) {
   background: #de6146;
   height: 10px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(50) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(50) {
   background: #deba46;
   height: 12px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(51) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(51) {
   background: #de4679;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(52) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(52) {
   background: #de465e;
   height: 11px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(53) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(53) {
   background: #deb246;
   height: 15px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(54) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(54) {
   background: #de9146;
   height: 11px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(55) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(55) {
   background: #decb46;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(56) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(56) {
   background: #de6146;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(57) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(57) {
   background: #de5246;
   height: 7px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(58) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(58) {
   background: #deba46;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(59) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(59) {
   background: #de464c;
   height: 7px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(60) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(60) {
   background: #de5f46;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(61) {
+.ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(61) {
   background: #de4660;
   height: 14px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(62) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(62) {
   background: #dedb46;
   height: 11px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(63) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(63) {
   background: #de4679;
   height: 11px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(64) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(64) {
   background: #ded346;
   height: 15px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(65) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(65) {
   background: #de7346;
   height: 6px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(66) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(66) {
   background: #de4679;
   height: 11px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(67) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(67) {
   background: #de4663;
   height: 7px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(68) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(68) {
   background: #de466d;
   height: 15px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(69) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(69) {
   background: #de466d;
   height: 11px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(70) {
+ .ui_inner .ui_inner__slider .slide_inner__left .firework_part:nth-of-type(70) {
   background: #ded146;
   height: 9px;
   width: 5px;
   -webkit-transform: rotate(0deg);
           transform: rotate(0deg);
 }
-body .ui_inner .ui_inner__slider .slide_inner__right {
+ .ui_inner .ui_inner__slider .slide_inner__right {
   display: inline-block;
   width: 70%;
   padding: 0px 40px 0px 0px;
@@ -1728,10 +1720,10 @@ body .ui_inner .ui_inner__slider .slide_inner__right {
   position: relative;
   z-index: 1;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .hid {
+ .ui_inner .ui_inner__slider .slide_inner__right .hid {
   display: none;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right h2 {
+ .ui_inner .ui_inner__slider .slide_inner__right h2 {
   margin: 0px 0px 10px 0px;
   font-family: 'Amatic SC', cursive;
   color: #94619c;
@@ -1742,7 +1734,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right h2 {
   -webkit-transition: all 0.5s 0.2s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.2s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner .ui_inner__slider .slide_inner__right h3 {
+ .ui_inner .ui_inner__slider .slide_inner__right h3 {
   margin: 0px 0px 10px 0px;
   font-family: 'Satisfy', cursive;
   color: #de467c;
@@ -1753,10 +1745,10 @@ body .ui_inner .ui_inner__slider .slide_inner__right h3 {
   -webkit-transition: all 0.5s 0.25s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.25s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner .ui_inner__slider .slide_inner__right h3 span {
+ .ui_inner .ui_inner__slider .slide_inner__right h3 span {
   font-size: 11px;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right p {
+ .ui_inner .ui_inner__slider .slide_inner__right p {
   margin: 0;
   font-family: 'Bad Script', cursive;
   line-height: 22px;
@@ -1768,7 +1760,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right p {
   -webkit-transition: all 0.5s 0.3s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.3s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner .ui_inner__slider .slide_inner__right input {
+ .ui_inner .ui_inner__slider .slide_inner__right input {
   margin: 20px 0px;
   padding: 10px;
   outline: none;
@@ -1784,7 +1776,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right input {
   -webkit-transition: all 0.5s 0.35s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.35s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add {
+ .ui_inner .ui_inner__slider .slide_inner__right .add {
   cursor: pointer;
   display: inherit;
   margin: 20px 0px;
@@ -1803,22 +1795,22 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add {
   -webkit-transition: all 0.5s 0.4s cubic-bezier(0.175, 1.605, 0.455, 0.92);
   transition: all 0.5s 0.4s cubic-bezier(0.175, 1.605, 0.455, 0.92);
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add input {
+ .ui_inner .ui_inner__slider .slide_inner__right .add input {
   display: none;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework {
   position: absolute;
   left: 0px;
   top: 0px;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part {
   position: absolute;
   border-radius: 10px;
   left: 0;
   top: 0;
   opacity: 1;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(1) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(1) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1832,7 +1824,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.49s 0.0125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.0125s, top 0.99s 0.0125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.49s 0.0125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.0125s, top 0.99s 0.0125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.0125s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(2) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(2) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1846,7 +1838,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.43s 0.025s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.025s, top 0.99s 0.025s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.43s 0.025s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.025s, top 0.99s 0.025s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.025s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(3) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(3) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1860,7 +1852,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.38s 0.0375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.0375s, top 0.99s 0.0375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.38s 0.0375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.0375s, top 0.99s 0.0375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.0375s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(4) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(4) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1874,7 +1866,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.31s 0.05s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.05s, top 0.99s 0.05s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.31s 0.05s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.05s, top 0.99s 0.05s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.05s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(5) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(5) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1888,7 +1880,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.2s 0.0625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.0625s, top 0.99s 0.0625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.2s 0.0625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.0625s, top 0.99s 0.0625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.0625s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(6) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(6) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1902,7 +1894,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.43s 0.075s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.075s, top 0.99s 0.075s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.43s 0.075s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.075s, top 0.99s 0.075s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.075s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(7) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(7) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1916,7 +1908,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.44s 0.0875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.0875s, top 0.99s 0.0875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.44s 0.0875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.0875s, top 0.99s 0.0875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.0875s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(8) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(8) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1930,7 +1922,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.5s 0.1s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1s, top 0.99s 0.1s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.5s 0.1s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1s, top 0.99s 0.1s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.1s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(9) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(9) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1944,7 +1936,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.03s 0.1125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1125s, top 0.99s 0.1125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.03s 0.1125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1125s, top 0.99s 0.1125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.1125s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(10) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(10) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1958,7 +1950,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.6s 0.125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.125s, top 0.99s 0.125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.6s 0.125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.125s, top 0.99s 0.125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.125s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(11) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(11) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1972,7 +1964,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.18s 0.1375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1375s, top 0.99s 0.1375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.18s 0.1375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1375s, top 0.99s 0.1375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.1375s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(12) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(12) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -1986,7 +1978,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.42s 0.15s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.15s, top 0.99s 0.15s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.42s 0.15s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.15s, top 0.99s 0.15s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.15s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(13) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(13) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2000,7 +1992,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.49s 0.1625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1625s, top 0.99s 0.1625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.49s 0.1625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1625s, top 0.99s 0.1625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.1625s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(14) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(14) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2014,7 +2006,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.55s 0.175s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.175s, top 0.99s 0.175s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.55s 0.175s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.175s, top 0.99s 0.175s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.175s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(15) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(15) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2028,7 +2020,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.33s 0.1875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1875s, top 0.99s 0.1875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.33s 0.1875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.1875s, top 0.99s 0.1875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.1875s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(16) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(16) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2042,7 +2034,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.47s 0.2s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2s, top 0.99s 0.2s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.47s 0.2s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2s, top 0.99s 0.2s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.2s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(17) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(17) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2056,7 +2048,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.12s 0.2125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2125s, top 0.99s 0.2125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.12s 0.2125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2125s, top 0.99s 0.2125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.2125s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(18) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(18) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2070,7 +2062,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.03s 0.225s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.225s, top 0.99s 0.225s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.03s 0.225s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.225s, top 0.99s 0.225s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.225s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(19) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(19) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2084,7 +2076,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.29s 0.2375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2375s, top 0.99s 0.2375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.29s 0.2375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2375s, top 0.99s 0.2375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.2375s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(20) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(20) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2098,7 +2090,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.84s 0.25s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.25s, top 0.99s 0.25s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.84s 0.25s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.25s, top 0.99s 0.25s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.25s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(21) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(21) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2112,7 +2104,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.47s 0.2625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2625s, top 0.99s 0.2625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.47s 0.2625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2625s, top 0.99s 0.2625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.2625s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(22) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(22) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2126,7 +2118,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.63s 0.275s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.275s, top 0.99s 0.275s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.63s 0.275s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.275s, top 0.99s 0.275s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.275s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(23) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(23) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2140,7 +2132,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.49s 0.2875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2875s, top 0.99s 0.2875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.49s 0.2875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.2875s, top 0.99s 0.2875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.2875s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(24) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(24) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2154,7 +2146,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.7s 0.3s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3s, top 0.99s 0.3s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.7s 0.3s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3s, top 0.99s 0.3s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.3s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(25) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(25) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2168,7 +2160,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.7s 0.3125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3125s, top 0.99s 0.3125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.7s 0.3125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3125s, top 0.99s 0.3125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.3125s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(26) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(26) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2182,7 +2174,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.42s 0.325s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.325s, top 0.99s 0.325s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.42s 0.325s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.325s, top 0.99s 0.325s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.325s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(27) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(27) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2196,7 +2188,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.37s 0.3375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3375s, top 0.99s 0.3375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.37s 0.3375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3375s, top 0.99s 0.3375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.3375s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(28) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(28) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2210,7 +2202,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.92s 0.35s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.35s, top 0.99s 0.35s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.92s 0.35s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.35s, top 0.99s 0.35s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.35s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(29) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(29) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2224,7 +2216,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.47s 0.3625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3625s, top 0.99s 0.3625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.47s 0.3625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3625s, top 0.99s 0.3625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.3625s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(30) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(30) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2238,7 +2230,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.39s 0.375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.375s, top 0.99s 0.375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.39s 0.375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.375s, top 0.99s 0.375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.375s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(31) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(31) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2252,7 +2244,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.68s 0.3875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3875s, top 0.99s 0.3875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.68s 0.3875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.3875s, top 0.99s 0.3875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.3875s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(32) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(32) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2266,7 +2258,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.21s 0.4s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4s, top 0.99s 0.4s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.21s 0.4s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4s, top 0.99s 0.4s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.4s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(33) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(33) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2280,7 +2272,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.93s 0.4125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4125s, top 0.99s 0.4125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.93s 0.4125s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4125s, top 0.99s 0.4125s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.4125s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(34) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(34) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2294,7 +2286,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 1.6s 0.425s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.425s, top 0.99s 0.425s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 1.6s 0.425s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.425s, top 0.99s 0.425s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.425s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(35) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(35) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2308,7 +2300,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.95s 0.4375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4375s, top 0.99s 0.4375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.95s 0.4375s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4375s, top 0.99s 0.4375s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.4375s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(36) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(36) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2322,7 +2314,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.76s 0.45s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.45s, top 0.99s 0.45s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.76s 0.45s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.45s, top 0.99s 0.45s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.45s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(37) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(37) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2336,7 +2328,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.96s 0.4625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4625s, top 0.99s 0.4625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.96s 0.4625s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4625s, top 0.99s 0.4625s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.4625s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(38) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(38) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2350,7 +2342,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.61s 0.475s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.475s, top 0.99s 0.475s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.61s 0.475s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.475s, top 0.99s 0.475s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.475s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(39) {
+.ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(39) {
   background: #de467c;
   height: 5px;
   width: 5px;
@@ -2364,7 +2356,7 @@ body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-
   transition: left 0.75s 0.4875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4875s, top 0.99s 0.4875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s;
   transition: left 0.75s 0.4875s cubic-bezier(0.23, 1, 0.32, 1), transform 0.6s 0.4875s, top 0.99s 0.4875s cubic-bezier(0.33, 1, 0.32, 1), opacity 0.3s 0.2s, -webkit-transform 0.6s 0.4875s;
 }
-body .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(40) {
+ .ui_inner .ui_inner__slider .slide_inner__right .add .firework_part:nth-of-type(40) {
   background: #de467c;
   height: 5px;
   width: 5px;
